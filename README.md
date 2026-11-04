@@ -1,6 +1,6 @@
 # Rank-Unimodality Below Alternating Two-Valued Compositions
 
-**No.53 · Preprint v1.0 · 4 November 2026**  
+**No.53 · Preprint v1.0 · Manuscript dated 4 November 2026**  
 **Ryutaro Yonezu — Independent Researcher**
 
 This computer-assisted mathematics preprint proves rank-unimodality of the principal ideal below the composition `(a,b)^m` in generalized subword order, for every integer `a>b>=1` and every `m>=1`. This is a **restricted family**, not the general composition rank-unimodality conjecture.
@@ -13,14 +13,21 @@ This computer-assisted mathematics preprint proves rank-unimodality of the princ
 - **License/rights:** **All rights reserved**. No open-source or reuse license is granted merely by publication.
 - **Reproducibility:** Python 3.10+, free SymPy preinstalled. Runs offline once dependencies are present. Linux checks passed; Windows PowerShell 5.1 execution of v0.4 was **not independently verified**.
 
+## Publication
+
+- **DOI:** [10.5281/zenodo.23954556](https://doi.org/10.5281/zenodo.23954556).
+- **Zenodo Preprint v1.0:** https://zenodo.org/records/23954556
+- **GitHub Release v1.0:** https://github.com/yonezaemon1-hub/no53-alternating-two-valued-compositions/releases/tag/v1.0
+- **Actual publication dates (JST):** GitHub Release: 4 November 2026; Zenodo: 5 November 2026. The manuscript is dated 4 November 2026.
+
 ## Downloads
 
-When the repository release is created, attach these files *without modifying their bytes*:
+The original files were published without changing their bytes:
 
-- `No53_v1.0_PREPRINT_20261104.pdf` — 5-page manuscript.
-- `No53_v1.0_REPRODUCIBILITY_20261104.zip` — scripts, frozen v0.4 audit snapshot, symbolic certificate, exact integer checks, TeX source and verification notes.
+- [No53_v1.0_PREPRINT_20261104.pdf](https://zenodo.org/records/23954556/files/No53_v1.0_PREPRINT_20261104.pdf?download=1) — 5-page manuscript.
+- [No53_v1.0_REPRODUCIBILITY_20261104.zip](https://zenodo.org/records/23954556/files/No53_v1.0_REPRODUCIBILITY_20261104.zip?download=1) — scripts, frozen v0.4 audit snapshot, symbolic certificate, exact integer checks, TeX source and verification notes.
 
-No DOI or publication URLs should be added until an actual public repository/release and Zenodo record are verified.
+Both files are also attached to the public GitHub Release v1.0. SHA256 values are recorded in `SHA256SUMS_RELEASE.txt`.
 
 ## Reproduction
 
