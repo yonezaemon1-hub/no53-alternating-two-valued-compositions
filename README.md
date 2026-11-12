@@ -54,3 +54,10 @@ For Windows PowerShell 5.1, see the archived `run_windows_v0.4.ps1`. No Windows 
 - J. Keilson and H. Gerber (1971), discrete strong unimodality under convolution.
 
 **Archive note:** Historical `HOLD` statements inside `frozen_v0.4/` are unmodified evidence of the prepublication audit; they are superseded by the owner's explicit authorization to issue v1.0. They do not imply that this version is human peer-reviewed or novelty-cleared.
+
+## Author correspondence (metadata update, 2026-11-12)
+
+**Ryutaro Yonezu — Independent Researcher**  
+Research correspondence: **yonezaemon1+research@gmail.com**
+
+This contact-information addition does not revise any mathematical claims, frozen verification files, published preprint PDF, release assets, DOI, or existing SHA256 checksums.
